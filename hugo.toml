@@ -1,4 +1,4 @@
-baseURL = 'https://alpecnet/'
+baseURL = 'https://alpaca.net/'
 locale = 'es-ES'
-title = 'ALPEC Networks'
+title = 'ALPACA Networks'
 theme = 'ananke'
