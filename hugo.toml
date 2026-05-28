@@ -1,0 +1,4 @@
+baseURL = 'https://alpecnet/'
+locale = 'es-ES'
+title = 'ALPEC Networks'
+theme = 'ananke'
