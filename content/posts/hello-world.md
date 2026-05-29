@@ -43,7 +43,7 @@ Command + Control + Espacio
   "age": 25
 }
 ```
-
+;;
 ## Imagenes
 
-![The San Juan Mountains are beautiful](/images/TemploHexastiloRomano.jpg "Templo hex'astilo romano de Córdoba")
+![The San Juan Mountains are beautiful](/images/TemploHexastiloRomano.jpeg "Templo hexástilo romano de Córdoba")
