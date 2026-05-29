@@ -1,13 +1,45 @@
 +++
 date = '2026-05-28T11:35:47+02:00'
-draft = true
-title = 'Hello World example'
+draft = false
+title = 'Sintaxis de ficheros MD'
 +++
 
-# Hello World
+# ✏️ Start writing
 
-This is **bold** text
+Write here. Publish when ready. Share the link.
 
-## Hola Mundo 2
+Your draft stays private until you choose to publish.
 
-Esto es *italica*
+## Primeros pasos
+
+📡 En la tabla lo muestro
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+También se puede usar este formatosin problemas puesto que el resultado será el mismo:
+
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+### Datos curioso:
+
+Para mostrar los emogis del sistema en MacOS s'olo hay que teclear estas tres teclas a la vez:
+
+Command + Control + Espacio
+
+## Cómo poner código
+
+💻 Esta puede ser una manera. Pone el código de manera que resalta del resto del texto dentro en un recuadro:
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
