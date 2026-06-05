@@ -2,7 +2,7 @@ baseurl = "https://bvejo.github.io/" # Configure URL. if using gh-pages https://
 title = "Alpaca Networks"
 theme = "hugo-universal-theme"
 themesDir = "themes"
-languageCode = "en-us"
+languageCode = "es"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "es"
 
@@ -27,19 +27,19 @@ pluralizelisttitles = false
 # Main menu
 [menu]
 [[menu.main]]
-    name       = "Home"
+    name       = "Inicio"
     identifier = "menu.home"
     url        = "/"
     weight     = 1
 
 [[menu.main]]
-    name       = "Option 1: Default Page"
+    name       = "Opción 1: Inicio"
     url        = "/"
     weight     = 1
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Option 2: Application"
+    name       = "Opción 2: Aplicación"
     url        = "/"
     weight     = 2
     parent     = "menu.home"
